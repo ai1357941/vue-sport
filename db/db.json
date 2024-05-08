@@ -1,0 +1,71 @@
+{
+  "user": [
+    {
+      "name": "wang",
+      "username": "mary",
+      "adress": "123",
+      "phone": "0912345678",
+      "email": "mary@gmail.com",
+      "password": "a123",
+      "id": "1"
+    },
+    {
+      "id": "fc23",
+      "name": "古慶緯",
+      "email": "ai1357941@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "1dc9",
+      "name": "古慶緯",
+      "email": "sdaasdads@gmail.com",
+      "password": "sadsdad"
+    },
+    {
+      "id": "b018",
+      "name": "古慶緯",
+      "username": "sdsda",
+      "password": "sadasdasd",
+      "email": "ai1357941@gmail.com",
+      "phone": "sadsa",
+      "adress": "苗栗縣"
+    },
+    {
+      "id": "c38c",
+      "name": "古慶緯",
+      "username": "a123456769",
+      "password": "Ll12345678",
+      "email": "ai1357941@gmail.com",
+      "phone": "0912345678",
+      "address": "苗栗縣"
+    },
+    {
+      "id": "77aa",
+      "username": "aaaa",
+      "password": "aaaaaaa"
+    },
+    {
+      "id": "5a22",
+      "username": "aaaa",
+      "password": "aaaaa"
+    },
+    {
+      "id": "4922",
+      "name": "古慶緯",
+      "username": "test",
+      "password": "Ll1234565789",
+      "email": "ai1123456@gmail.com",
+      "phone": "0979123546",
+      "address": "苗栗縣"
+    },
+    {
+      "id": "28e5",
+      "name": "admin",
+      "username": "admin",
+      "password": "Aadmin",
+      "email": "admin@gmail.com",
+      "phone": "0912345678",
+      "address": "test"
+    }
+  ]
+}
